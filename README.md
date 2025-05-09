@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://github.com/crownytrex2/interstellar/blob/22bced287e79d15aa34966da716bd4cf5f853a7a/Screenshot%202025-05-09%2010.10.43.png?raw=true">
+    <img src="[https://github.com/crownytrex2/interstellar/blob/22bced287e79d15aa34966da716bd4cf5f853a7a/Screenshot%202025-05-09%2010.10.43.png?raw=true](https://fine-kathye-crownytrex2-601887fa.koyeb.app/assets/media/favicon/main.png)">
 
 
 <div align="center">
